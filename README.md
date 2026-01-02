@@ -1,3 +1,5 @@
+
+
 ## 🤖 Phasmod
 
 I'm a full stack web developer in progress, focused on building clean and simple user interfaces with HTML and CSS.
@@ -32,8 +34,14 @@ This is a learning journey, and I’m taking it one step at a time.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phasmod&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phasmod&layout=compact&theme=dark)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=phasmod&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=issues" alt="Dante4rt's github stats" /></a></td>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phasmod&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /></a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
