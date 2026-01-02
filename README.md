@@ -1,6 +1,7 @@
 
+## 🤖 Phasmod 
 
-## 🤖 Phasmod
+<img src="https://komarev.com/ghpvc/?username=Phasmod&style=for-the-badge&color=orange">
 
 I'm a full stack web developer in progress, focused on building clean and simple user interfaces with HTML and CSS.
 
