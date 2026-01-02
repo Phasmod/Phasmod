@@ -33,7 +33,6 @@ This is a learning journey, and I’m taking it one step at a time.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phasmod&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phasmod&layout=compact&theme=dark)
 
 ---
